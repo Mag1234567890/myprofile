@@ -1,0 +1,29 @@
+/*Colors and fonts*/
+body {
+	background: #F2EFE7;
+	color : #D2665A
+	font-family: Helvetica;
+	font-size: 17px;
+}
+h1, h2, h3 {
+	font-family: "Montserrat", serif;
+}
+h1 {
+	color: #48A6A7;
+	ont-family: "Montserrat", serif;;
+	font-size: 32px ;
+	font-weight: 900;
+}
+h2 {
+	color: #D2665A;
+	font-family: "Montserrat", serif;
+	font-size : 24px;
+	font-weight: 300 ;
+}
+a {
+	text-decoration: none;
+	color : #48A6A7;
+}
+a: hover {
+	color : yellow;
+}
